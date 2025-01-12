@@ -111,7 +111,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/+H-l9E4CaQ8pmZDBl>☢VJ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/+H-l9E4CaQ8pmZDBl>☢raj☢</a></b>
   
  <b>✯ Join here : <a href=https://t.me/+H-l9E4CaQ8pmZDBl>☢Join my updateds☢</a></b> 
   
