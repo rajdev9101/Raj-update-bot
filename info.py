@@ -121,7 +121,7 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 VERIFY = bool(environ.get('VERIFY', True))
 VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'thunderlinks.site')
 VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'a1a367bab65fced5d41ed459a2142dbb0aab372d')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://www.facebook.com/100025327833714/posts/pfbid02CdD6iugVMVYpzJPcKCc89nYnCqe3uPZb2zVNPMV86bWqCvUNMuiK5gavGnob8Y9Jl/?app=fbl')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/')
 
 # If You Fill Second Shortner Then Bot Attach Both First And Second Shortner And Use It For Verify.
 VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False))
