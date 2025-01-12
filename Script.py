@@ -19,7 +19,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Tv_serial_wala'>ᴛᴇᴄʜ ᴠᴊ</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='@raj_dev_01'>ᴛᴇᴄʜ ᴠᴊ</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -111,9 +111,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Tv_serial_wala>☢VJ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/+H-l9E4CaQ8pmZDBl>☢VJ☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/movieupdatewithak>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/+H-l9E4CaQ8pmZDBl>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -717,7 +717,7 @@ Also your tutorial will be Added Your Group..."""
 
  একটি ভিডিও যোগ করুন
 
- 👇 কিভাবে যোগ করবেন 👇
+ 👇 কিভাবে যোগ করবেন 👇 i am raj deb
 
  মেয়াদ: /set_tutorial ভিডিও লিঙ্ক
 
@@ -727,13 +727,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Tv_serial_wala'>VJ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/+H-l9E4CaQ8pmZDBl'>VJ</a>
 
--Dev 2 <a href='https://t.me/Tv_serial_wala'>VJ</a>
+-Dev 2 <a href='https://t.me/+H-l9E4CaQ8pmZDBl'>VJ</a>
 
--Dev 3 <a href='https://t.me/Tv_serial_wala>VJ Botz</a>
+-Dev 3 <a href='https://t.me/+H-l9E4CaQ8pmZDBl>VJ Botz</a>
 
-- Dev 4 <a href='https://t.me/Tv_serial_wala'>TEAM VJ</a>
+- Dev 4 <a href='https://t.me/+H-l9E4CaQ8pmZDBl'>TEAM VJ</a>
 """
 
     RENAME_TXT = """
