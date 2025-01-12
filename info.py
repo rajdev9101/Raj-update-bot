@@ -94,9 +94,9 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Sharmamoviediscus')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MovieupdatewithAK')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Sharmamoviediscus') # Support Chat Link Without https:// or @
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+eU4z4hgI8ls4M2Rl')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+H-l9E4CaQ8pmZDBl')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Pro_dev_oor') # Support Chat Link Without https:// or @
 
 
 # True Or False
