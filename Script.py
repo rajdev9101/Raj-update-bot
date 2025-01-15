@@ -495,7 +495,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த Sharma_movies_bot போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த Raj_Hd_movies போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
@@ -549,7 +549,7 @@ Also your tutorial will be Added Your Group..."""
 
  ఎలా మరియు ఏమి చేయాలి
 
- దశ 1: ఈ Sharma_movies_bot బాట్‌ని మీ సమూహానికి నిర్వహించండి
+ దశ 1: ఈ Raj_Hd_movies బాట్‌ని మీ సమూహానికి నిర్వహించండి
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
@@ -575,7 +575,7 @@ Also your tutorial will be Added Your Group..."""
  आपके समूह में जितने अधिक सदस्य होंगे, आपकी आय उतनी ही अधिक होगी।
 
  कैसे और क्या करना है
-
+Raj_Hd_movies
  चरण 1: इस फ़िल्टर-बॉट बॉट को अपने समूह में प्रशासित करें
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
@@ -630,7 +630,7 @@ Also your tutorial will be Added Your Group..."""
 
  کیسے اور کیا کرنا ہے۔
 
- مرحلہ 1: اپنے گروپ میں اس Sharma_movies_bot بوٹ کا انتظام کریں۔
+ مرحلہ 1: اپنے گروپ میں اس Raj_Hd_movies بوٹ کا انتظام کریں۔
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
@@ -657,7 +657,7 @@ Also your tutorial will be Added Your Group..."""
 
  કેવી રીતે અને શું કરવું
 
- પગલું 1: તમારા જૂથમાં આ Sharma_movies_bot બોટનું સંચાલન કરો
+ પગલું 1: તમારા જૂથમાં આ Raj_Hd_movies બોટનું સંચાલન કરો
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
@@ -683,7 +683,7 @@ Also your tutorial will be Added Your Group..."""
 
  ಹೇಗೆ ಮತ್ತು ಏನು ಮಾಡಬೇಕು
 
- ಹಂತ 1: ಈ ಫಿಲ್ಟರ್-ಬಾಟ್ ಬೋಟ್ ಅನ್ನು ನಿಮ್ಮ ಗುಂಪಿಗೆ ನಿರ್ವಹಿಸಿ
+ ಹಂತ 1: ಈ ಫಿಲ್ಟರ್-ಬಾಟ್ ಬೋಟ್ Raj_Hd_movies ಅನ್ನು ನಿಮ್ಮ ಗುಂಪಿಗೆ ನಿರ್ವಹಿಸಿ
 
  ಹಂತ 2: ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು API ಸೇರಿಸಿ
 
@@ -709,7 +709,7 @@ Also your tutorial will be Added Your Group..."""
 
  কিভাবে এবং কি করতে হবে
 
- ধাপ 1: আপনার গ্রুপে এই Sharma_movies_bot বট পরিচালনা করুন
+ ধাপ 1: আপনার গ্রুপে এই Raj_Hd_movies বট পরিচালনা করুন
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 
@@ -729,11 +729,11 @@ special Thanks To ❤️ Developers -
 
 -Dev 1 [Owner of this bot ]<a href='https://t.me/+H-l9E4CaQ8pmZDBl'>VJ</a>
 
--Dev 2 <a href='https://t.me/+H-l9E4CaQ8pmZDBl'>VJ</a>
+-Dev 2 <a href='https://t.me/+H-l9E4CaQ8pmZDBl'>raj</a>
 
--Dev 3 <a href='https://t.me/+H-l9E4CaQ8pmZDBl>VJ Botz</a>
+-Dev 3 <a href='https://t.me/+H-l9E4CaQ8pmZDBl>raj Botz</a>
 
-- Dev 4 <a href='https://t.me/+H-l9E4CaQ8pmZDBl'>TEAM VJ</a>
+- Dev 4 <a href='https://t.me/+H-l9E4CaQ8pmZDBl'>TEAM raj</a>
 """
 
     RENAME_TXT = """
