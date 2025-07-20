@@ -13,7 +13,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'Raj movies')
 API_ID = int(environ.get('API_ID', '27084955'))
 API_HASH = environ.get('API_HASH', '91c88b554ab2a34f8b0c72228f06fc0b')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+BOT_TOKEN = environ.get('BOT_TOKEN', "8008283498:AAHNg89SkPOP1uoEfIPYVsYXcB9mDxSMr3U")
 
 
 # Bot settings
